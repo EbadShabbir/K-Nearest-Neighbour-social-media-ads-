@@ -15,5 +15,10 @@ The K-NN algorithm is a simple, non-parametric classification algorithm that wor
 
 Ensure you have the following libraries installed:
 
+    ```bash
+    pip install numpy pandas matplotlib scikit-learn
+## Cloning the repository
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+git clone https:/EbadShabbir/github.com//knn-classification.git
+cd knn-classification
+
